@@ -1,0 +1,21 @@
+Best params: {'clf__C': 5.0}
+Accuracy: 0.6711
+Macro F1: 0.6830
+
+Classification Report:
+                                 precision    recall  f1-score   support
+
+           Billing and Payments       0.85      0.86      0.85       319
+               Customer Service       0.62      0.64      0.63       482
+                General Inquiry       0.74      0.62      0.67        47
+                Human Resources       0.75      0.64      0.69        70
+                     IT Support       0.59      0.59      0.59       388
+                Product Support       0.63      0.62      0.63       615
+          Returns and Exchanges       0.69      0.62      0.65       164
+            Sales and Pre-Sales       0.67      0.62      0.65       103
+Service Outages and Maintenance       0.78      0.79      0.79       133
+              Technical Support       0.67      0.69      0.68       947
+
+                       accuracy                           0.67      3268
+                      macro avg       0.70      0.67      0.68      3268
+                   weighted avg       0.67      0.67      0.67      3268

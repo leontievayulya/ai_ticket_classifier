@@ -1,0 +1,4 @@
+Эксперимент,Accuracy,Macro F1-score
+Run 1: Logistic Regression,0.5064,0.3864
+Run 2: Linear SVC (Support Vector Classifier),0.6242,0.64
+Run 3: Multinomial Naive Bayes,0.4125,0.2252
